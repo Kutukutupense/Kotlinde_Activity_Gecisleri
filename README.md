@@ -1,2 +1,2 @@
 # Kotlinde_Activity_Gecisleri
- Android Studio Kotlin Activity Geçişleri Nasıl Yapılır
+ Android de  Activity Geçişleri Nasıl Yapılır
